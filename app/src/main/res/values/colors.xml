@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Default colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_200">#808080</color>
+
+    <!-- შენი ფერები -->
+    <color name="accentColor">#0296E5</color>
+    <color name="font_color">#000000</color>
+    <color name="line_color">#C6C6C6</color>
+    <color name="background">#EAEAEA</color>
+    <color name="review_back">#252836</color>
+    <color name="review_color">#FF8700</color>
+    <color name="TabViewBack">#EAEAEA</color>
 </resources>
